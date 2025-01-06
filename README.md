@@ -1,5 +1,3 @@
-# Diabetes_prediction
-
 ---
 title: Diabetes Prediction
 emoji: 🌖
@@ -11,3 +9,5 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+
+# Diabetes_prediction
