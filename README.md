@@ -1,8 +1,8 @@
 ---
 title: Diabetes Prediction
 emoji: 🌖
-colorFrom: purple
-colorTo: pink
+colorFrom: green
+colorTo: red
 sdk: streamlit
 sdk_version: 1.41.1
 app_file: app.py
