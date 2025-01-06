@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv3/
+
+# Ignore environment files
+.env
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+
+diabetes_prediction.ipynb
