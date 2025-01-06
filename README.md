@@ -1,7 +1,7 @@
 ---
 title: Diabetes Prediction
 emoji: 🌖
-colorFrom: indigo
+colorFrom: purple
 colorTo: pink
 sdk: streamlit
 sdk_version: 1.41.1
